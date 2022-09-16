@@ -1,6 +1,6 @@
 
 
-// Declaring 3 variables
+// Declaring new variables
 let x = 10;
 let y = 12;
 
