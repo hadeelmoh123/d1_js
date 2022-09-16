@@ -1,11 +1,11 @@
-//  console.log(sum); instead of this do this
 
-// Declaring new variables
+
+// Declaring 3 variables
 let x = 10;
 let y = 12;
 
 //  This is a statement that calculates the sum of x and y
 let z = x + y;
 
-// Logging to console
+// Logging to console to see the result
 console.log(z);
